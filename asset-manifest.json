@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/func-class-component/static/css/main.6f4230bf.css",
+    "main.js": "/func-class-component/static/js/main.b7cae9f1.js",
+    "static/js/787.f3d7924f.chunk.js": "/func-class-component/static/js/787.f3d7924f.chunk.js",
+    "index.html": "/func-class-component/index.html",
+    "main.6f4230bf.css.map": "/func-class-component/static/css/main.6f4230bf.css.map",
+    "main.b7cae9f1.js.map": "/func-class-component/static/js/main.b7cae9f1.js.map",
+    "787.f3d7924f.chunk.js.map": "/func-class-component/static/js/787.f3d7924f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f4230bf.css",
+    "static/js/main.b7cae9f1.js"
+  ]
+}

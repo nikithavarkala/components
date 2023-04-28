@@ -1,0 +1,37 @@
+.heading{
+    text-shadow:3px 3px 3px whitesmoke;
+}
+button{
+    padding: 17px;
+    border-radius: 50px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 70px;
+    background-color: rgb(94, 194, 194);
+}
+button:hover{
+    background-color: rgb(127, 222, 222);
+}
+.box1{
+    border: 2px solid rgb(21, 12, 12);
+    width:500px;
+    padding: 10px;
+    margin-top: 40px;
+    border-radius: 20px;
+    background-color:cadetblue;
+    position:absolute;
+    left:50px;
+    top:260px;
+}
+.box2{
+    border: 2px solid rgb(21, 12, 12);
+    width:500px;
+    padding: 10px;
+    margin-top: 40px;
+    border-radius: 20px;
+    background-color:seagreen;
+    position:absolute;
+    right:70px;
+    top:260px;
+}
